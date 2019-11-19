@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ekoconfig2
+  profiles:
+    active: Local
+server:
+  port: 8887
+
+

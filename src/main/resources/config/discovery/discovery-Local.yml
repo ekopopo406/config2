@@ -1,0 +1,5 @@
+eureka: 
+  client: 
+    service-url: 
+      defaultZone: http://ekoeureka2:8886/eureka
+
